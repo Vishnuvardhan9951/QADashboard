@@ -1,0 +1,101 @@
+command,intent
+I want to open the garage door,OpenDevice
+Switch on the bedroom fan,TurnOnDevice
+Adjust the temperature to 79 degrees,SetTemperature
+Set the thermostat to 70 degrees,SetTemperature
+Is the window on?,CheckDeviceStatus
+Is the garage door working?,CheckDeviceStatus
+What's the status of the kitchen lights?,CheckDeviceStatus
+I want to open the coffee machine,OpenDevice
+Shut the living room lights,CloseDevice
+Is the coffee machine on?,CheckDeviceStatus
+Can you open the coffee machine?,OpenDevice
+Open the thermostat,OpenDevice
+Shut the window,CloseDevice
+Turn off the living room lights,TurnOffDevice
+Please turn off the garage door,TurnOffDevice
+Turn on the thermostat,TurnOnDevice
+Make it 64 degrees,SetTemperature
+Can you open the kitchen lights?,OpenDevice
+Adjust the temperature to 66 degrees,SetTemperature
+Make it 65 degrees,SetTemperature
+Is the window on?,CheckDeviceStatus
+Shut the front door,CloseDevice
+Make it 71 degrees,SetTemperature
+What's the status of the living room lights?,CheckDeviceStatus
+Turn on the front door,TurnOnDevice
+I want to open the thermostat,OpenDevice
+Close the front door,CloseDevice
+Turn off the window,TurnOffDevice
+Make it 75 degrees,SetTemperature
+Turn off the thermostat,TurnOffDevice
+Turn on the bedroom fan,TurnOnDevice
+Close the window,CloseDevice
+Switch on the garage door,TurnOnDevice
+Turn on the window,TurnOnDevice
+Please turn off the kitchen lights,TurnOffDevice
+Set the thermostat to 77 degrees,SetTemperature
+Adjust the temperature to 78 degrees,SetTemperature
+Switch on the thermostat,TurnOnDevice
+Can you open the window?,OpenDevice
+Switch on the kitchen lights,TurnOnDevice
+I want to open the kitchen lights,OpenDevice
+Make it 62 degrees,SetTemperature
+What's the status of the front door?,CheckDeviceStatus
+Is the front door working?,CheckDeviceStatus
+Please turn off the thermostat,TurnOffDevice
+Set the thermostat to 79 degrees,SetTemperature
+Can you turn on the living room lights?,TurnOnDevice
+I want to open the living room lights,OpenDevice
+Is the living room lights working?,CheckDeviceStatus
+Adjust the temperature to 62 degrees,SetTemperature
+What's the status of the thermostat?,CheckDeviceStatus
+Turn on the kitchen lights,TurnOnDevice
+Can you turn on the kitchen lights?,TurnOnDevice
+Is the living room lights working?,CheckDeviceStatus
+Please close the window,CloseDevice
+Can you turn on the coffee machine?,TurnOnDevice
+Can you turn on the bedroom fan?,TurnOnDevice
+Can you open the kitchen lights?,OpenDevice
+Can you open the kitchen lights?,OpenDevice
+Shut the coffee machine,CloseDevice
+Please turn off the front door,TurnOffDevice
+I want to open the bedroom fan,OpenDevice
+Is the living room lights on?,CheckDeviceStatus
+Close the garage door,CloseDevice
+Switch off the living room lights,TurnOffDevice
+Close the coffee machine,CloseDevice
+Shut the window,CloseDevice
+Set the thermostat to 72 degrees,SetTemperature
+What's the status of the kitchen lights?,CheckDeviceStatus
+Switch off the living room lights,TurnOffDevice
+Please turn off the window,TurnOffDevice
+Please close the thermostat,CloseDevice
+Turn off the kitchen lights,TurnOffDevice
+Open the coffee machine,OpenDevice
+Is the thermostat working?,CheckDeviceStatus
+Close the front door,CloseDevice
+Adjust the temperature to 66 degrees,SetTemperature
+I want to open the bedroom fan,OpenDevice
+Is the garage door on?,CheckDeviceStatus
+Close the garage door,CloseDevice
+I want to open the window,OpenDevice
+Close the kitchen lights,CloseDevice
+Set the thermostat to 61 degrees,SetTemperature
+Set the thermostat to 64 degrees,SetTemperature
+Open the garage door,OpenDevice
+Close the living room lights,CloseDevice
+Can you open the coffee machine?,OpenDevice
+Is the living room lights on?,CheckDeviceStatus
+Please turn off the thermostat,TurnOffDevice
+Shut the window,CloseDevice
+Please close the garage door,CloseDevice
+Please close the window,CloseDevice
+Close the coffee machine,CloseDevice
+Close the thermostat,CloseDevice
+Set the thermostat to 71 degrees,SetTemperature
+Switch off the kitchen lights,TurnOffDevice
+Is the living room lights on?,CheckDeviceStatus
+Open the thermostat,OpenDevice
+Is the front door working?,CheckDeviceStatus
+Open the living room lights,OpenDevice

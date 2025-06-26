@@ -1,0 +1,97 @@
+command,intent,confidence
+Can you turn on the garage door?,TurnOnDevice,4
+Please close the thermostat,CloseDevice,4
+Is the garage door on?,CheckDeviceStatus,5
+Shut the bedroom fan,CloseDevice,4
+Can you open the kitchen lights?,OpenDevice,4
+Turn on the garage door,TurnOnDevice,5
+Can you turn on the garage door?,TurnOnDevice,4
+Make it 64 degrees,SetTemperature,5
+Can you open the thermostat?,OpenDevice,5
+Close the front door,CloseDevice,5
+Turn off the bedroom fan,TurnOffDevice,5
+I want to open the front door,OpenDevice,5
+Close the window,CloseDevice,4
+Is the thermostat on?,CheckDeviceStatus,4
+Please turn off the coffee machine,TurnOffDevice,5
+Please turn off the thermostat,TurnOffDevice,5
+Set the thermostat to 79 degrees,SetTemperature,5
+Set the thermostat to 71 degrees,SetTemperature,5
+Open the living room lights,OpenDevice,4
+Is the thermostat working?,CheckDeviceStatus,4
+Is the window on?,CheckDeviceStatus,4
+Close the coffee machine,CloseDevice,4
+What's the status of the garage door?,CheckDeviceStatus,5
+Set the thermostat to 69 degrees,SetTemperature,4
+What's the status of the kitchen lights?,CheckDeviceStatus,4
+Turn on the living room lights,TurnOnDevice,4
+Please turn off the coffee machine,TurnOffDevice,5
+Turn on the front door,TurnOnDevice,4
+Turn off the front door,TurnOffDevice,4
+Open the window,OpenDevice,4
+Is the thermostat on?,CheckDeviceStatus,4
+What's the status of the thermostat?,CheckDeviceStatus,5
+Is the bedroom fan on?,CheckDeviceStatus,5
+Make it 73 degrees,SetTemperature,4
+Set the thermostat to 75 degrees,SetTemperature,5
+Close the coffee machine,CloseDevice,4
+Open the window,OpenDevice,4
+Switch off the bedroom fan,TurnOffDevice,5
+Turn off the living room lights,TurnOffDevice,5
+Shut the garage door,CloseDevice,5
+Can you turn on the coffee machine?,TurnOnDevice,5
+Can you open the bedroom fan?,OpenDevice,5
+Make it 71 degrees,SetTemperature,4
+Switch on the bedroom fan,TurnOnDevice,4
+Please turn off the kitchen lights,TurnOffDevice,4
+Switch on the bedroom fan,TurnOnDevice,4
+Close the window,CloseDevice,4
+I want to open the bedroom fan,OpenDevice,4
+Can you turn on the coffee machine?,TurnOnDevice,5
+Close the front door,CloseDevice,5
+I want to open the garage door,OpenDevice,5
+Please turn off the coffee machine,TurnOffDevice,5
+Open the thermostat,OpenDevice,5
+Is the garage door working?,CheckDeviceStatus,4
+Open the living room lights,OpenDevice,4
+Can you turn on the thermostat?,TurnOnDevice,4
+Turn off the garage door,TurnOffDevice,4
+Please turn off the thermostat,TurnOffDevice,4
+Shut the living room lights,CloseDevice,5
+Switch off the garage door,TurnOffDevice,5
+Switch off the living room lights,TurnOffDevice,4
+Please close the coffee machine,CloseDevice,5
+Make it 74 degrees,SetTemperature,4
+Switch off the front door,TurnOffDevice,4
+Turn off the living room lights,TurnOffDevice,5
+Switch off the garage door,TurnOffDevice,4
+What's the status of the coffee machine?,CheckDeviceStatus,4
+Adjust the temperature to 66 degrees,SetTemperature,5
+Please close the window,CloseDevice,4
+Switch off the thermostat,TurnOffDevice,5
+Please close the garage door,CloseDevice,4
+Make it 76 degrees,SetTemperature,5
+Shut the living room lights,CloseDevice,4
+Can you turn on the kitchen lights?,TurnOnDevice,4
+Adjust the temperature to 74 degrees,SetTemperature,4
+Shut the kitchen lights,CloseDevice,4
+Adjust the temperature to 68 degrees,SetTemperature,5
+Is the thermostat working?,CheckDeviceStatus,5
+Set the thermostat to 79 degrees,SetTemperature,4
+Please close the kitchen lights,CloseDevice,5
+Adjust the temperature to 74 degrees,SetTemperature,4
+Is the kitchen lights on?,CheckDeviceStatus,5
+Switch off the garage door,TurnOffDevice,4
+Can you open the coffee machine?,OpenDevice,4
+Switch off the coffee machine,TurnOffDevice,5
+Can you turn on the kitchen lights?,TurnOnDevice,5
+Close the front door,CloseDevice,4
+Make it 61 degrees,SetTemperature,4
+Can you turn on the window?,TurnOnDevice,4
+Please close the garage door,CloseDevice,4
+Turn it down,CloseDevice,3
+Can you fix the light?,CloseDevice,1
+Is it working?,OpenDevice,1
+Make it cooler,CheckDeviceStatus,2
+Shut it down,OpenDevice,1
+Is it on?,SetTemperature,2
